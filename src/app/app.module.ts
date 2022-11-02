@@ -24,3 +24,5 @@ export class AppModule {}
 // 172. Analyzing Angular Observables
   // npm install --save rxjs@6
   // npm install --save rxjs-compat
+
+// 173. Getting Closer to the Core of Observables
